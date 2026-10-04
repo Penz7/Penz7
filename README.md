@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:7F52FF&height=210&section=header&text=Hi,%20I'm%20DatC%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Developer%20%C2%B7%20Flutter%20%26%20Android%20%C2%B7%20Fullstack&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:7F52FF&height=210&section=header&text=Hi,%20I'm%20DatC%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Developer%20%C2%B7%20Flutter%20%26amp%3B%20Android%20(Kotlin)%20%C2%B7%20Fullstack%20with%20NestJS%20%26amp%3B%20Next.js&descSize=16&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://penz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-penz--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Penz7&style=for-the-badge&color=13B9FD&label=Profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Penz7.Penz7&left_text=Profile%20views&left_color=%2302569B&right_color=%2313B9FD" alt="Profile views" height="28" />
   <a href="https://github.com/Penz7?tab=followers"><img src="https://img.shields.io/github/followers/Penz7?style=for-the-badge&logo=github&label=Followers&color=7F52FF" alt="Followers" /></a>
 </p>
 
