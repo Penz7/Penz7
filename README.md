@@ -65,22 +65,44 @@ data class Developer(
 
 ## 🚀 Featured projects
 
+### 🧹 [SysClean](https://github.com/Penz7/SysClean) — Android system analyzer & cleaner
+
+An Android phone cleaner that **measures before it acts**: health score, junk cleaning with a recycle bin, speed & battery-drain diagnosis, RAM manager and a live home-screen widget. Deep clean via **Shizuku / root**, fully on-device (**no internet permission**, no ads, no analytics). English & Vietnamese · Google Play closed testing.
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin_2.2-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose_·_M3-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square&logo=android&logoColor=white" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Room_·_DataStore-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Glance_widget-34A853?style=flat-square&logo=android&logoColor=white" alt="Glance" />
+  <img src="https://img.shields.io/badge/Shizuku_·_Root-FF6F00?style=flat-square&logo=android&logoColor=white" alt="Shizuku" />
+  <img src="https://img.shields.io/badge/Multi--module_(NiA)-555555?style=flat-square&logo=gradle&logoColor=white" alt="Multi-module" />
+</p>
+
+### 📦 [ProofDrop](https://github.com/Penz7/proofdrop) — Tamper-evident proof of delivery
+
+End-to-end last-mile delivery system: an **Android courier app** photographs each drop-off, hashes it, tags GPS + BLE beacon and seals it into an **append-only hash chain**; a **NestJS backend** re-verifies every record; a **React dashboard** gives dispatchers a live fleet map and chain audits. Offline-first, real-time via WebSocket / SSE.
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin_·_Compose-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/CameraX_·_ML_Kit-4285F4?style=flat-square&logo=android&logoColor=white" alt="CameraX" />
+  <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE" />
+  <img src="https://img.shields.io/badge/Room_·_WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/NestJS_·_Prisma-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/React_·_MapLibre-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL_·_S3-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🔧 More work
+
 <p align="center">
-  <a href="https://github.com/Penz7/pomoduck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=pomoduck&theme=tokyonight&hide_border=true" alt="pomoduck" /></a>
-  <a href="https://github.com/Penz7/safe_ways"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=safe_ways&theme=tokyonight&hide_border=true" alt="safe_ways" /></a>
-  <a href="https://github.com/Penz7/cook_with_nhee"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=cook_with_nhee&theme=tokyonight&hide_border=true" alt="cook_with_nhee" /></a>
-  <a href="https://github.com/Penz7/cook-with-nhee-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=cook-with-nhee-api&theme=tokyonight&hide_border=true" alt="cook-with-nhee-api" /></a>
   <a href="https://github.com/Penz7/d-crm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=d-crm&theme=tokyonight&hide_border=true" alt="d-crm" /></a>
-  <a href="https://github.com/Penz7/android-zero-to-hero"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=android-zero-to-hero&theme=tokyonight&hide_border=true" alt="android-zero-to-hero" /></a>
+  <a href="https://github.com/Penz7/winmole"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=winmole&theme=tokyonight&hide_border=true" alt="winmole" /></a>
 </p>
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🦆 [**Pomoduck**](https://github.com/Penz7/pomoduck) | Cute Pomodoro timer with a duck buddy | Flutter |
-| 🗺️ [**Safe Ways**](https://github.com/Penz7/safe_ways) | Safety location & monitoring app (MVVM) | Kotlin · Compose · Firebase · Maps |
-| 🍳 [**Cook with Nhee**](https://cook-with-nhee.vercel.app) | Store & research recipes — app + [API](https://github.com/Penz7/cook-with-nhee-api) | Flutter · NestJS · MongoDB · Supabase |
 | 📊 [**D-CRM**](https://github.com/Penz7/d-crm) | CRM for small-to-medium sales teams | Next.js · NestJS · PostgreSQL · Prisma · Turborepo |
-| 🤖 [**Android Zero to Hero**](https://github.com/Penz7/android-zero-to-hero) | Learn Android engineering from zero to pro in 30 days | Next.js · MDX · Supabase |
 | 🧹 [**WinMole**](https://github.com/Penz7/winmole) | Portable Windows cleaner & optimizer for the terminal | PowerShell · C# |
 
 ## 📊 GitHub stats
