@@ -32,7 +32,8 @@ data class Developer(
 - 📱 Build **cross-platform apps with Flutter** and **native Android with Kotlin & Jetpack Compose**
 - 🛠️ Write the backends behind them: **NestJS · Prisma · PostgreSQL / MongoDB · Supabase · Firebase**
 - 🌐 Ship web frontends and dashboards with **Next.js / React**, monorepos with **Turborepo**
-- 🔌 Side quests: IoT with **ESP32 / ESP8266**, Windows tooling with **[WinMole](https://github.com/Penz7/winmole)**
+- 🤖 Build tooling for AI coding agents: **[Browser Agent Kit](https://github.com/Penz7/browser-agent-kit)** lets any MCP agent drive a real Chrome
+- 🔌 Side quests: IoT with **ESP32 / ESP8266**, dev-machine cleaners **[MacClean](https://github.com/Penz7/macclean)** (macOS) and **[WinMole](https://github.com/Penz7/winmole)** (Windows)
 
 ## 🧰 Tech stack
 
@@ -98,10 +99,14 @@ End-to-end last-mile delivery system: an **Android courier app** photographs eac
 <p align="center">
   <a href="https://github.com/Penz7/d-crm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=d-crm&theme=tokyonight&hide_border=true" alt="d-crm" /></a>
   <a href="https://github.com/Penz7/winmole"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=winmole&theme=tokyonight&hide_border=true" alt="winmole" /></a>
+  <a href="https://github.com/Penz7/browser-agent-kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=browser-agent-kit&theme=tokyonight&hide_border=true" alt="browser-agent-kit" /></a>
+  <a href="https://github.com/Penz7/macclean"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Penz7&repo=macclean&theme=tokyonight&hide_border=true" alt="macclean" /></a>
 </p>
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🧭 [**Browser Agent Kit**](https://github.com/Penz7/browser-agent-kit) | Chrome extension + MCP server that lets any AI agent (Claude Code, Codex, Cursor, Gemini CLI…) drive your real Chrome: ref-based clicks, page reading, screenshots, site allowlist | JavaScript · Chrome Extension (MV3) · MCP |
+| 🍎 [**MacClean**](https://github.com/Penz7/macclean) | Terminal TUI to free up disk space on a developer Mac (Xcode, Simulator, Gradle, Flutter, AI agent leftovers) and tame startup items | Python · curses · zero dependencies |
 | 📊 [**D-CRM**](https://github.com/Penz7/d-crm) | CRM for small-to-medium sales teams | Next.js · NestJS · PostgreSQL · Prisma · Turborepo |
 | 🧹 [**WinMole**](https://github.com/Penz7/winmole) | Portable Windows cleaner & optimizer for the terminal | PowerShell · C# |
 
